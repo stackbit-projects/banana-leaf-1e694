@@ -1,7 +1,7 @@
 ---
 title: Projects
 sections:
-  - title: lorem-ipsum
+  - title: Projects
     content: >-
       ## Lorem ipsum
 
