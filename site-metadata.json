@@ -31,7 +31,7 @@
             },
             {
                 "label": "Proejects",
-                "url": "lorem-ipsum",
+                "url": "/projects",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
