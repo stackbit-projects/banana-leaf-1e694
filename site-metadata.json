@@ -30,7 +30,7 @@
                 "style": "primary"
             },
             {
-                "label": "Prejects",
+                "label": "Projects",
                 "url": "/projects",
                 "style": "link",
                 "new_window": false,
