@@ -3,7 +3,7 @@ title: Projects
 sections:
   - title: Projects
     content: >-
-      ## Lorem ipsum
+      ###### Lorem ipsum
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
